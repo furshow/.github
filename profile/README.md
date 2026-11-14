@@ -10,4 +10,4 @@ If they're useful to you, you can support their development:
 
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N3L02AMSOT)
 
-<sub>Fan-made projects, not affiliated with Bandai Namco or Sunrise. Rights holders: if you have any concern about these projects, contact me at furshowEXVS [at] gmail.com and I'll respond promptly.</sub>
+<sub>Fan-made projects, not affiliated with Bandai Namco or Sunrise. Rights holders: if you have any concern about these projects, contact me at furshowEXVS+legal [at] gmail.com and I'll respond promptly.</sub>
