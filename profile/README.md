@@ -1,6 +1,6 @@
 ### Hi, I'm Furshow 👋
 
-Sr Software Developer Engineer in Test. I make fan tools for **Gundam Extreme Vs. Infinite Boost** (arcade):
+Sr Software Developer Engineer in Test. I make fan tools for arcade games:
 
 - [EXVSIB Mod Manager](https://github.com/furshow/EXVSModManager-releases): create, install and share mods
 - [EXVS Launcher](https://github.com/furshow/EXVSLauncher): a modern launcher that replaces SnowLauncher
